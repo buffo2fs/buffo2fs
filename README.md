@@ -22,7 +22,7 @@ I have experience developing personal projects that simulate real applications, 
 ## 🛠️ Technologies & Tools
 
 **Backend**
-- Java 21
+- Java 25
 - Spring Boot
 - Spring Data JPA
 - Hibernate
