@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lucas
 
 🎯 Backend Developer focused on **Java**, **Spring Boot**, and **RESTful APIs**  
-📍 Brazil  
+📍 Brasil  
 🚀 Constantly learning and improving, passionate about clean code, good architecture, and well-structured backend systems
 
 ---
